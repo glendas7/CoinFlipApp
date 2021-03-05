@@ -1,1 +1,2 @@
-## Coin Flip App made for Mobile Apps Class
+## Coin Flip App
+Mobile Apps Class Creative Work Assignment
