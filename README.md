@@ -1,2 +1,2 @@
 ## Coin Flip App
-Mobile Apps Class Creative Work Assignment
+Mobile Apps Class- Creative Work Assignment
