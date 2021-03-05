@@ -1,3 +1,1 @@
-## Coin Flip
-
-Coin Flip App made for Mobile Apps
+## Coin Flip App made for Mobile Apps Class
